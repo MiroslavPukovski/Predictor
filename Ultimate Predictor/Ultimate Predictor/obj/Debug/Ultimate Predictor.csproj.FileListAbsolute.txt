@@ -1,0 +1,15 @@
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\bin\Debug\Ultimate Predictor.exe.config
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\bin\Debug\Ultimate Predictor.exe
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\bin\Debug\Ultimate Predictor.pdb
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate Predictor.csproj.AssemblyReference.cache
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate Predictor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate_Predictor.Form1.resources
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate_Predictor.Properties.Resources.resources
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate Predictor.csproj.GenerateResource.cache
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate Predictor.csproj.CoreCompileInputs.cache
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate Predictor.exe
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate Predictor.pdb
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\bin\Debug\PredictionsConfig.json
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mirek\Desktop\Programing C#\C#\Ultimate Predictor\Ultimate Predictor\obj\Debug\Ultimate Predictor.csproj.CopyComplete
